@@ -1,2 +1,2 @@
-# ejercicios
+# repositoriohenry
 ejercicios c2
